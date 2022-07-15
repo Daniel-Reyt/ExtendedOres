@@ -1,0 +1,19 @@
+{
+  "item.extendedores.silver_ingot": "Silver Ingot",
+  "item.extendedores.coruptedite_ingot": "Coruptedite Ingot",
+
+  "item.extendedores.coruptedite_axe": "Coruptedite Axe",
+  "item.extendedores.coruptedite_pickaxe": "Coruptedite Pickaxe",
+  "item.extendedores.coruptedite_shovel": "Coruptedite Shovel",
+  "item.extendedores.coruptedite_hoe": "Coruptedite Hoe",
+  "item.extendedores.coruptedite_sword": "Coruptedite Sword",
+
+  "item.extendedores.silver_axe": "Silver Axe",
+  "item.extendedores.silver_pickaxe": "Silver Pickaxe",
+  "item.extendedores.silver_shovel": "Silver Shovel",
+  "item.extendedores.silver_hoe": "Silver Hoe",
+  "item.extendedores.silver_sword": "Silver Sword",
+
+  "block.extendedores.silver_ore": "Silver Ore",
+  "block.extendedores.coruptedite_ore": "Coruptedite Ore"
+}
