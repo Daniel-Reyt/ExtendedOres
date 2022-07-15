@@ -1,0 +1,39 @@
+{
+  "item.extendedores.silver_ingot": "Lingot d'Argent",
+  "item.extendedores.coruptedite_ingot": "Lingot de Coruptedite",
+  "item.extendedores.rubynite_ingot": "Lingot de Rubynite",
+  "item.extendedores.ultimum_ingot": "Lingot d'Ultimum",
+
+  "item.extendedores.coruptedite_axe": "Hache en Coruptedite",
+  "item.extendedores.coruptedite_pickaxe": "Pioche en Coruptedite",
+  "item.extendedores.coruptedite_shovel": "Pelle en Coruptedite",
+  "item.extendedores.coruptedite_hoe": "Houe en Coruptedite",
+  "item.extendedores.coruptedite_sword": "Épée en Coruptedite",
+
+  "item.extendedores.silver_axe": "Hache en Argent",
+  "item.extendedores.silver_pickaxe": "Pioche en Argent",
+  "item.extendedores.silver_shovel": "Pelle en Argent",
+  "item.extendedores.silver_hoe": "Houe en Argent",
+  "item.extendedores.silver_sword": "Épée en Argent",
+
+  "item.extendedores.rubynite_axe": "Hache en Rubynite",
+  "item.extendedores.rubynite_pickaxe": "Pioche en Rubynite",
+  "item.extendedores.rubynite_shovel": "Pelle en Rubynite",
+  "item.extendedores.rubynite_hoe": "Houe en Rubynite",
+  "item.extendedores.rubynite_sword": "Épée en Rubynite",
+
+  "item.extendedores.ultimum_axe": "Hache en Ultimum",
+  "item.extendedores.ultimum_pickaxe": "Pioche en Ultimum",
+  "item.extendedores.ultimum_shovel": "Pelle en Ultimum",
+  "item.extendedores.ultimum_hoe": "Houe en Ultimum",
+  "item.extendedores.ultimum_sword": "Épée en Ultimum",
+
+  "block.extendedores.silver_ore": "Minerais d'Argent",
+  "block.extendedores.coruptedite_ore": "Minerais de Coruptedite",
+  "block.extendedores.ultimum_ore": "Minerais d'Ultimum",
+  "block.extendedores.rubynite_ore": "Minerais de Rubynite",
+
+  "itemGroup.extendedore_tab_ingots": "Extended Lingots",
+  "itemGroup.extendedore_tab_ore": "Extended Minerais",
+  "itemGroup.extendedore_tab_tools": "Extended Outils"
+}

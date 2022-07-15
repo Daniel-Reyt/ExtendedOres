@@ -14,6 +14,8 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> SILVER_ORE = BLOCKS.register("silver_ore", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()));
     public static final RegistryObject<Block> CORUPTEDITE_ORE = BLOCKS.register("coruptedite_ore", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> ULTIMUM_ORE = BLOCKS.register("ultimum_ore", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> RUBYNITE_ORE = BLOCKS.register("rubynite_ore", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()));
     public static void register(IEventBus eventBus) {
         BLOCKS.register(eventBus);
     }

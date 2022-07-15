@@ -1,6 +1,8 @@
 {
   "item.extendedores.silver_ingot": "Silver Ingot",
   "item.extendedores.coruptedite_ingot": "Coruptedite Ingot",
+  "item.extendedores.rubynite_ingot": "Rubynite Ingot",
+  "item.extendedores.ultimum_ingot": "Ultimum Ingot",
 
   "item.extendedores.coruptedite_axe": "Coruptedite Axe",
   "item.extendedores.coruptedite_pickaxe": "Coruptedite Pickaxe",
@@ -14,6 +16,24 @@
   "item.extendedores.silver_hoe": "Silver Hoe",
   "item.extendedores.silver_sword": "Silver Sword",
 
+  "item.extendedores.rubynite_axe": "Rubynite Axe",
+  "item.extendedores.rubynite_pickaxe": "Rubynite Pickaxe",
+  "item.extendedores.rubynite_shovel": "Rubynite Shovel",
+  "item.extendedores.rubynite_hoe": "Rubynite Hoe",
+  "item.extendedores.rubynite_sword": "Rubynite Sword",
+
+  "item.extendedores.ultimum_axe": "Ultimum Axe",
+  "item.extendedores.ultimum_pickaxe": "Ultimum Pickaxe",
+  "item.extendedores.ultimum_shovel": "Ultimum Shovel",
+  "item.extendedores.ultimum_hoe": "Ultimum Hoe",
+  "item.extendedores.ultimum_sword": "Ultimum Sword",
+
   "block.extendedores.silver_ore": "Silver Ore",
-  "block.extendedores.coruptedite_ore": "Coruptedite Ore"
+  "block.extendedores.coruptedite_ore": "Coruptedite Ore",
+  "block.extendedores.ultimum_ore": "Ultimum Ore",
+  "block.extendedores.rubynite_ore": "Rubynite Ore",
+
+  "itemGroup.extendedore_tab_ingots": "Extended Ingots",
+  "itemGroup.extendedore_tab_ore": "Extended Ores",
+  "itemGroup.extendedore_tab_tools": "Extended Tools"
 }
